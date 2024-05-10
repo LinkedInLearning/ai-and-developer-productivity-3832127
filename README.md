@@ -1,34 +1,19 @@
 # AI and Developer Productivity
 This is the repository for the LinkedIn Learning course `AI and Developer Productivity`. The full course is available from [LinkedIn Learning][lil-course-url].
 
-_See the readme file in the main branch for updated instructions and information._
-## Instructions
-This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
+![lil-thumbnail-url]
 
-## Branches
-The branches are structured to correspond to the videos in the course. The naming convention is `CHAPTER#_MOVIE#`. As an example, the branch named `02_03` corresponds to the second chapter and the third video in that chapter. 
-Some branches will have a beginning and an end state. These are marked with the letters `b` for "beginning" and `e` for "end". The `b` branch contains the code as it is at the beginning of the movie. The `e` branch contains the code as it is at the end of the movie. The `main` branch holds the final state of the code when in the course.
+<p>If you’re looking for new ways to leverage AI as a software developer, this course was designed for you. Get an essential overview of how you can start using AI to improve your development productivity, creativity, and professional problem-solving skills. Join instructor Temidayo Adefioye as he shows you how to successfully integrate tools like Microsoft Copilot and ChatGPT into your workflow, while also appreciating the value of AI as a supplement rather than a mere replacement for your own personal process.</p><p>Learn how to upskill and become an AI-powered developer to remain competitive and innovative in the industry. This course covers the following concepts and provides hands-on examples and demos along the way: the role of AI in development, how to effectively use prompts, code optimization, automated testing and quality assurance, intelligent debugging and issue resolution strategies, collaborative development for remote teams, documentation techniques, interview preparation, and more.</p>
 
-When switching from one exercise files branch to the next after making changes to the files, you may get a message like this:
+### Instructor
 
-    error: Your local changes to the following files would be overwritten by checkout:        [files]
-    Please commit your changes or stash them before you switch branches.
-    Aborting
+Temidayo Adefioye
 
-To resolve this issue:
-	
-    Add changes to git using this command: git add .
-	Commit changes using this command: git commit -m "some message"
+Founder of CodeNest Africa | Mentor @MentorCruise | Author                 
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
-
-
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/temidayo-adefioye?u=104).
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+[lil-course-url]: https://www.linkedin.com/learning/ai-and-developer-productivity
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQFXw8VOLfLmtw/learning-public-crop_675_1200/0/1715191910801?e=2147483647&v=beta&t=3WBiJ-iMratUneH12lLMImS10OE3mnUF-vX_jCTIzf4
 
