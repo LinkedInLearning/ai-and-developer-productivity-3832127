@@ -12,7 +12,6 @@ Temidayo Adefioye
 Founder of CodeNest Africa | Mentor @MentorCruise | Author                 
 
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/temidayo-adefioye?u=104).
-[0]: # (Replace these placeholder URLs with actual course URLs)
 
 [lil-course-url]: https://www.linkedin.com/learning/ai-and-developer-productivity
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQFXw8VOLfLmtw/learning-public-crop_675_1200/0/1715191910801?e=2147483647&v=beta&t=3WBiJ-iMratUneH12lLMImS10OE3mnUF-vX_jCTIzf4
